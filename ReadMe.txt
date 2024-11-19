@@ -1,0 +1,6 @@
+- Utilize the requirements.txt to obtain a virtual environment containing all the required modules.
+- Run python3 manage.py populate_database -- starts a script that makes a fake user database in SQLite.
+- Run python3 manage.py makemigrations
+- Run python3 manage.py migrate
+- Run python3 manage.py runserver
+- Reach the API endpoints as required.
